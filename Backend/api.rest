@@ -1,0 +1,15 @@
+###
+POST http://localhost:1500/home/sendmail
+Content-Type: application/json
+
+{
+    "name" : "abcd",
+    "email" :"crisece123@gmail.com",
+    "message":"Hello ! vishnu , this is cristiano ."
+}
+
+
+
+
+
+
